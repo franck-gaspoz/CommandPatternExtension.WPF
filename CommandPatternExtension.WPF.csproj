@@ -4,11 +4,11 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Description>.NET Standard 2.0 Command pattern (GOF) implementation extension for C# (CSharp) WPF .NET Framework. MIT Licence free</Description>
     <Copyright>MIT Licence (c) Franck Gaspoz</Copyright>
-    <PackageLicenseUrl>https://github.com/franck-gaspoz/</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/franck-gaspoz/</PackageProjectUrl>
-    <PackageIconUrl>https://github.com/franck-gaspoz/</PackageIconUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/franck-gaspoz/CommandPatternExtension.WPF/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/franck-gaspoz/CommandPatternExtension.WPF</PackageProjectUrl>
+    <PackageIconUrl></PackageIconUrl>
     <RepositoryType>GIT</RepositoryType>
-    <RepositoryUrl>https://github.com/franck-gaspoz/</RepositoryUrl>
+    <RepositoryUrl>https://github.com/franck-gaspoz/CommandPatternExtension.WPF</RepositoryUrl>
     <PackageTags>Command pattern api ICommand C# CSharp .NET Standard 2.0 .NET Framework WPF</PackageTags>
     <PackageReleaseNotes>.NET Standard 2.0 Command pattern (GOF) implementation extension for C# (CSharp) WPF .NET Framework. MIT Licence free
 Command pattern api ICommand C# CSharp .NET Standard 2.0 .NET Framework</PackageReleaseNotes>
